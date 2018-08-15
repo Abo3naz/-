@@ -1,1 +1,1 @@
-node bot.js
+npm start
